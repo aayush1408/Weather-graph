@@ -1,1 +1,1 @@
-Stephen Grider Tutorial
+![alt text](Screenshot/Screenshot.png "Screenshot of the repo")
